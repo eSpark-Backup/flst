@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Oliver_Flst.PrjPcb]
+   Generated File[Pick Place for Junction_Box.txt]
+   Generated File[Pick Place for Junction_Box.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 1:39:24 PM On 4/8/2022
