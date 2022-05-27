@@ -1,11 +1,14 @@
-Output: Generates pick and place files
-Type  : Pick Place
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:49:52 PM On 5/27/2022
+
+Output: Bill of Materials
+Type  : BOM
 From  : Variant [[No Variations]] of Project [Oliver_Flst.PrjPcb]
-   Generated File[Pick Place for Junction_Box.txt]
-   Generated File[Pick Place for Junction_Box.csv]
+   Generated File[Bill of Materials-Oliver_Flst.xlsx]
 
 
-Files Generated   : 2
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 1:39:24 PM On 4/8/2022
+Finished Output Generation At 12:49:56 PM On 5/27/2022
