@@ -1,42 +1,43 @@
 Altium Designer Pick and Place Locations
-E:\Git\flst\Design_Files\Project Outputs for Oliver_Flst\Pick Place for Junction_Box.csv
+E:\flst\Design_Files\Project Outputs for Oliver_Flst\Pick Place for Junction_Box.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       08/04/22
-Time:       13:39
-Revision:   4f772d9a92a10120b1e625d5a730cd2f5ec82995
+Date:       27/05/22
+Time:       13:12
+Revision:   1a7cf8045e33e210280e0b2fc9dd4567a9572b12
 Variant:    No variations
 Units used: mil
 
 "Designator","Layer","Center-X(mil)","Center-Y(mil)","Rotation","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)"
+"R15","TopLayer","243,000mil","1038,173mil","270","243,000mil","1038,173mil","243,000mil","1049,000mil"
+"R14","TopLayer","242,000mil","778,173mil","270","242,000mil","778,173mil","242,000mil","789,000mil"
+"R8","BottomLayer","202,827mil","515,827mil","270","202,827mil","515,827mil","202,827mil","526,654mil"
+"R3","BottomLayer","328,000mil","309,173mil","90","328,000mil","309,173mil","328,000mil","298,346mil"
+"C2","TopLayer","588,440mil","522,000mil","180","588,440mil","522,000mil","791,000mil","522,000mil"
 "U4","TopLayer","588,000mil","949,000mil","270","588,000mil","949,000mil","613,000mil","1073,016mil"
 "U3","TopLayer","858,000mil","952,032mil","270","858,000mil","952,032mil","1033,000mil","1075,063mil"
 "U2","TopLayer","1364,055mil","934,252mil","0","1364,055mil","934,252mil","1305,000mil","965,748mil"
-"U1","TopLayer","577,701mil","197,000mil","180","579,000mil","197,000mil","684,000mil","122,000mil"
+"U1","TopLayer","577,701mil","106,000mil","180","579,000mil","106,000mil","684,000mil","31,000mil"
 "SW1","TopLayer","1610,000mil","270,000mil","90","1610,000mil","270,000mil","1580,472mil","194,213mil"
-"RF2","TopLayer","462,000mil","356,000mil","270","462,000mil","356,000mil","462,000mil","386,000mil"
-"RF1","TopLayer","544,000mil","328,000mil","180","544,000mil","328,000mil","574,000mil","328,000mil"
+"RF2","BottomLayer","464,000mil","221,000mil","270","464,000mil","221,000mil","464,000mil","251,000mil"
+"RF1","BottomLayer","542,000mil","192,000mil","180","542,000mil","192,000mil","572,000mil","192,000mil"
 "R16","BottomLayer","564,000mil","1024,000mil","90","564,000mil","1024,000mil","564,000mil","994,000mil"
-"R15","TopLayer","401,000mil","1036,827mil","270","401,000mil","1036,827mil","401,000mil","1047,653mil"
-"R14","TopLayer","401,000mil","785,000mil","270","401,000mil","785,000mil","401,000mil","795,827mil"
 "R13","BottomLayer","684,000mil","1024,000mil","90","684,000mil","1024,000mil","684,000mil","994,000mil"
 "R12","BottomLayer","784,000mil","1024,000mil","90","784,000mil","1024,000mil","784,000mil","994,000mil"
 "R11","BottomLayer","884,000mil","1024,000mil","90","884,000mil","1024,000mil","884,000mil","994,000mil"
 "R10","BottomLayer","984,000mil","1024,000mil","90","984,000mil","1024,000mil","984,000mil","994,000mil"
 "R9","BottomLayer","615,000mil","920,000mil","90","615,000mil","920,000mil","615,000mil","890,000mil"
-"R8","TopLayer","401,000mil","532,000mil","270","401,000mil","532,000mil","401,000mil","542,827mil"
 "R7","BottomLayer","734,000mil","920,000mil","90","734,000mil","920,000mil","734,000mil","890,000mil"
 "R6","BottomLayer","834,000mil","920,000mil","90","834,000mil","920,000mil","834,000mil","890,000mil"
 "R5","BottomLayer","934,000mil","920,000mil","90","934,000mil","920,000mil","934,000mil","890,000mil"
 "R4","BottomLayer","1033,000mil","920,000mil","90","1033,000mil","920,000mil","1033,000mil","890,000mil"
-"R3","BottomLayer","299,000mil","289,827mil","90","299,000mil","289,827mil","299,000mil","279,000mil"
-"R2","BottomLayer","1560,000mil","295,000mil","360","1560,000mil","295,000mil","1530,000mil","295,000mil"
-"R1","TopLayer","368,000mil","175,000mil","180","368,000mil","175,000mil","398,000mil","175,000mil"
-"Q4","TopLayer","321,000mil","1047,000mil","90","321,000mil","1047,006mil","363,323mil","1009,598mil"
-"Q3","TopLayer","321,000mil","794,994mil","90","321,000mil","795,000mil","363,323mil","757,592mil"
-"Q2","TopLayer","321,000mil","542,402mil","90","321,000mil","542,408mil","363,323mil","505,000mil"
+"R2","BottomLayer","1560,000mil","295,000mil","0","1560,000mil","295,000mil","1530,000mil","295,000mil"
+"R1","TopLayer","368,000mil","84,000mil","180","368,000mil","84,000mil","398,000mil","84,000mil"
+"Q4","TopLayer","163,323mil","1047,000mil","90","163,323mil","1047,006mil","205,646mil","1009,598mil"
+"Q3","TopLayer","163,323mil","794,994mil","90","163,323mil","795,000mil","205,646mil","757,592mil"
+"Q2","TopLayer","163,323mil","542,402mil","90","163,323mil","542,408mil","205,646mil","505,000mil"
 "Q1","BottomLayer","217,323mil","286,000mil","270","217,323mil","285,994mil","259,646mil","323,402mil"
 "P10","TopLayer","246,000mil","1255,000mil","180","296,000mil","1255,000mil","296,000mil","1255,000mil"
 "P9","TopLayer","-30,000mil","1000,000mil","90","-30,000mil","950,000mil","-30,000mil","950,000mil"
@@ -46,15 +47,14 @@ Units used: mil
 "P5","TopLayer","-30,000mil","490,000mil","90","-30,000mil","440,000mil","-30,000mil","440,000mil"
 "P4","TopLayer","1369,000mil","1255,000mil","180","1419,000mil","1255,000mil","1419,000mil","1255,000mil"
 "P3","TopLayer","-30,000mil","235,000mil","90","-30,000mil","185,000mil","-30,000mil","185,000mil"
-"P2","TopLayer","1372,000mil","-31,000mil","360","1322,000mil","-31,000mil","1322,000mil","-31,000mil"
-"P1","TopLayer","1155,000mil","-31,000mil","360","1105,000mil","-31,000mil","1105,000mil","-31,000mil"
+"P2","TopLayer","1372,000mil","-31,000mil","0","1322,000mil","-31,000mil","1322,000mil","-31,000mil"
+"P1","TopLayer","1155,000mil","-31,000mil","0","1105,000mil","-31,000mil","1105,000mil","-31,000mil"
 "L2","TopLayer","1255,000mil","929,827mil","270","1255,000mil","929,827mil","1255,000mil","940,654mil"
 "L1","TopLayer","1230,000mil","390,000mil","90","1230,000mil","390,000mil","1230,000mil","171,496mil"
 "J1","TopLayer","1617,000mil","670,000mil","90","1617,000mil","670,000mil","1617,000mil","470,000mil"
-"D1","TopLayer","912,000mil","249,000mil","270","912,000mil","249,000mil","912,000mil","327,740mil"
-"C6","BottomLayer","1609,000mil","245,000mil","360","1609,000mil","245,000mil","1579,000mil","245,000mil"
+"D1","TopLayer","912,000mil","158,000mil","270","912,000mil","158,000mil","912,000mil","236,740mil"
+"C6","BottomLayer","1609,000mil","245,000mil","0","1609,000mil","245,000mil","1579,000mil","245,000mil"
 "C5","BottomLayer","1172,000mil","981,000mil","90","1172,000mil","981,000mil","1172,000mil","951,000mil"
 "C4","BottomLayer","1224,000mil","981,000mil","90","1224,000mil","981,000mil","1224,000mil","951,000mil"
-"C3","TopLayer","778,000mil","252,000mil","270","778,000mil","252,000mil","778,000mil","282,000mil"
-"C2","TopLayer","677,000mil","537,937mil","270","677,000mil","537,937mil","677,000mil","666,874mil"
-"C1","TopLayer","200,000mil","306,772mil","90","200,000mil","180,000mil","200,000mil","180,000mil"
+"C3","TopLayer","778,000mil","161,000mil","270","778,000mil","161,000mil","778,000mil","191,000mil"
+"C1","TopLayer","201,000mil","282,772mil","90","201,000mil","156,000mil","201,000mil","156,000mil"
