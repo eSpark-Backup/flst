@@ -1,0 +1,7 @@
+Added Component: Designator=D1(SMA)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yangzhou"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "SS24A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMA(DO-214AC)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Member To Class: ClassName=Power_Section Member=Component D1 SS24A
