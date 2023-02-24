@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-E:\flst\Design-Files\Project Outputs for Oliver_Flst\Pick Place for Junction_Box.txt
+D:\eSpark-Consultants\flst\Design-Files\Project Outputs for Oliver_Flst\Pick Place for Junction_Box.txt
 
 ========================================================================================================================
 File Design Information:
 
 Date:       24/02/23
-Time:       14:06
-Revision:   9e0a7529f1838e0be2ec9122d02aa19707a87105
+Time:       18:01
+Revision:   323776d3aa6c7e45662001861ee4ad8493257543
 Variant:    No variations
 Units used: mm
 
@@ -50,11 +50,11 @@ P4         10.9855mm    31.9421mm    TopLayer 0
 P3         -0.7366mm    5.2578mm     TopLayer 90       
 P2         5.4610mm     31.9421mm    TopLayer 0        
 P1         5.7404mm     -0.7366mm    TopLayer 180      
-L2         23.4188mm    23.9522mm    TopLayer 90       
+L2         23.2156mm    24.3332mm    TopLayer 270      
 L1         36.7030mm    5.6008mm     TopLayer 90       
 J1         37.0586mm    31.9421mm    TopLayer 0        
 C6         4.4704mm     26.0096mm    TopLayer 90       
-C5         24.3622mm    23.9888mm    TopLayer 90       
-C4         25.6576mm    23.9888mm    TopLayer 90       
+C5         24.3622mm    24.3444mm    TopLayer 270      
+C4         25.6576mm    24.3444mm    TopLayer 270      
 C3         25.9334mm    2.4130mm     TopLayer 270      
 C1         12.2682mm    3.2200mm     TopLayer 90       
