@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Oliver_Flst.PrjPcb]
-   Generated File[Junction_Box.TXT]
-   Generated File[Junction_Box.LDP]
-   Generated File[Junction_Box.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Oliver_Flst.PrjPcb]
+   Generated File[Pick Place for Junction_Box.csv]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 5:34:21 PM On 2/24/2023
+Finished Output Generation At 9:10:43 PM On 2/24/2023
