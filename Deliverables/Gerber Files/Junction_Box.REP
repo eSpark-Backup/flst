@@ -2,34 +2,8 @@
 FileName = Junction_Box.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 2
-      File : Junction_Box.GM2
-
-    Adding Layer      : Mechanical 2
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Junction_Box.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Junction_Box.GBP
-
-    Adding Layer      : Bottom Paste
+Generating : Bottom Pad Master
+      File : Junction_Box.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -37,45 +11,17 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D22
-    D23
-    D25
-    D26
-    D92
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Junction_Box.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D34
-    D38
-    D39
-    D41
-    D42
-    D50
-    D51
-    D52
-    D53
-    D54
-    D106
-    D107
-    D108
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Junction_Box.GTS
-
-    Adding Layer      : Top Solder
+Generating : Top Pad Master
+      File : Junction_Box.GPT
 
     Adding Layer      : Top Layer
 
@@ -83,42 +29,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Junction_Box.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D18
     D19
     D20
     D21
@@ -134,6 +44,14 @@ Used DCodes :
     D31
     D32
     D33
+    D34
+    D35
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
 *************************************************************
 
 *************************************************************
@@ -152,11 +70,14 @@ Used DCodes :
     D15
     D16
     D17
+    D18
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : Junction_Box.GPT
+Generating : Top Paste
+      File : Junction_Box.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -164,7 +85,6 @@ Generating : Top Pad Master
 
 
 Used DCodes :
-    D18
     D19
     D20
     D21
@@ -180,16 +100,15 @@ Used DCodes :
     D31
     D32
     D33
-    D86
-    D87
-    D88
-    D89
-    D90
+    D34
+    D35
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Junction_Box.GPB
+Generating : Bottom Paste
+      File : Junction_Box.GBP
+
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -197,17 +116,30 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D18
-    D22
-    D23
-    D25
-    D26
-    D86
-    D87
-    D88
-    D89
-    D90
-    D92
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Junction_Box.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D15
+    D134
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Junction_Box.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
 *************************************************************
 
 *************************************************************
@@ -221,36 +153,35 @@ Generating : Bottom Layer
 
 Used DCodes :
     D10
-    D18
-    D22
-    D23
-    D25
-    D26
-    D55
-    D56
-    D57
-    D59
+    D61
+    D64
     D66
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
+    D67
+    D68
+    D71
     D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
 *************************************************************
 
 *************************************************************
@@ -264,7 +195,7 @@ Generating : Top Layer
 
 Used DCodes :
     D10
-    D18
+    D15
     D19
     D20
     D21
@@ -280,12 +211,8 @@ Used DCodes :
     D31
     D32
     D33
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
+    D34
+    D35
     D61
     D62
     D63
@@ -317,6 +244,93 @@ Used DCodes :
     D89
     D90
     D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Junction_Box.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Junction_Box.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
 *************************************************************
 
 *************************************************************
@@ -329,8 +343,10 @@ Generating : Drill Drawing
 
 
 Used DCodes :
-    D109
-    D110
+    D10
+    D61
+    D135
+    D136
 *************************************************************
 
 *************************************************************
@@ -343,6 +359,6 @@ Generating : Drill Guide
 
 
 Used DCodes :
-    D109
+    D135
 *************************************************************
 
