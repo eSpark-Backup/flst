@@ -5,56 +5,56 @@ E:\flst\Design-Files\Project Outputs for Oliver_Flst\Pick Place for Junction_Box
 File Design Information:
 
 Date:       24/02/23
-Time:       08:56
-Revision:   b949579ba8e97e0bb448cafd7f5645115be9900c
+Time:       14:06
+Revision:   9e0a7529f1838e0be2ec9122d02aa19707a87105
 Variant:    No variations
-Units used: mil
+Units used: mm
 
-Designator Layer    Center-X(mil) Center-Y(mil) Rotation Ref-X(mil)  Ref-Y(mil)  Pad-X(mil)  Pad-Y(mil)  
-D1         TopLayer 1117,000mil   92,740mil     90       1117,000mil 92,740mil   1117,000mil 14,000mil   
-R15        TopLayer 236,000mil    886,827mil    270      236,000mil  886,827mil  236,000mil  897,654mil  
-R14        TopLayer 236,000mil    660,827mil    270      236,000mil  660,827mil  236,000mil  671,654mil  
-R8         TopLayer 236,000mil    442,827mil    270      236,000mil  442,827mil  236,000mil  453,654mil  
-R3         TopLayer 236,000mil    237,833mil    270      236,000mil  237,833mil  236,000mil  248,660mil  
-C2         TopLayer 1556,440mil   776,000mil    0        1556,440mil 776,000mil  1353,880mil 776,000mil  
-U4         TopLayer 789,921mil    812,333mil    0        789,921mil  812,333mil  665,905mil  837,333mil  
-U3         TopLayer 790,968mil    544,333mil    0        790,968mil  544,333mil  667,937mil  719,333mil  
-U2         TopLayer 1140,945mil   943,748mil    0        1140,945mil 943,748mil  1081,890mil 975,244mil  
-U1         TopLayer 844,701mil    37,000mil     180      846,000mil  37,000mil   951,000mil  -38,000mil  
-SW1        TopLayer 23,213mil     1035,527mil   180      23,213mil   1035,528mil -52,575mil  1006,000mil 
-RF2        TopLayer 697,000mil    201,000mil    270      697,000mil  201,000mil  697,000mil  231,000mil  
-RF1        TopLayer 776,000mil    167,000mil    180      776,000mil  167,000mil  806,000mil  167,000mil  
-R16        TopLayer 528,000mil    777,000mil    0        528,000mil  777,000mil  478,000mil  777,000mil  
-R13        TopLayer 528,000mil    371,333mil    0        528,000mil  371,333mil  478,000mil  371,333mil  
-R12        TopLayer 528,000mil    470,000mil    0        528,000mil  470,000mil  478,000mil  470,000mil  
-R11        TopLayer 528,000mil    568,667mil    0        528,000mil  568,667mil  478,000mil  568,667mil  
-R10        TopLayer 528,000mil    667,333mil    0        528,000mil  667,333mil  478,000mil  667,333mil  
-R9         TopLayer 1008,000mil   837,333mil    0        1008,000mil 837,333mil  978,000mil  837,333mil  
-R7         TopLayer 1008,000mil   419,333mil    0        1008,000mil 419,333mil  978,000mil  419,333mil  
-R6         TopLayer 1008,000mil   520,333mil    0        1008,000mil 520,333mil  978,000mil  520,333mil  
-R5         TopLayer 1008,000mil   620,333mil    0        1008,000mil 620,333mil  978,000mil  620,333mil  
-R4         TopLayer 1008,000mil   719,333mil    0        1008,000mil 719,333mil  978,000mil  719,333mil  
-R2         TopLayer 256,000mil    993,000mil    180      256,000mil  993,000mil  286,000mil  993,000mil  
-R1         TopLayer 643,000mil    10,000mil     180      643,000mil  10,000mil   673,000mil  10,000mil   
-Q4         TopLayer 159,323mil    902,402mil    90       159,323mil  902,408mil  201,646mil  865,000mil  
-Q3         TopLayer 159,323mil    676,994mil    90       159,323mil  677,000mil  201,646mil  639,592mil  
-Q2         TopLayer 159,323mil    459,401mil    90       159,323mil  459,408mil  201,646mil  422,000mil  
-Q1         TopLayer 159,323mil    254,000mil    90       159,323mil  254,006mil  201,646mil  216,598mil  
-P10        TopLayer 1085,000mil   1257,563mil   0        1035,000mil 1257,563mil 1035,000mil 1257,563mil 
-P9         TopLayer -29,000mil    859,000mil    90       -29,000mil  809,000mil  -29,000mil  809,000mil  
-P8         TopLayer 867,500mil    1257,563mil   0        817,500mil  1257,563mil 817,500mil  1257,563mil 
-P7         TopLayer -29,000mil    641,667mil    90       -29,000mil  591,667mil  -29,000mil  591,667mil  
-P6         TopLayer 650,000mil    1257,563mil   0        600,000mil  1257,563mil 600,000mil  1257,563mil 
-P5         TopLayer -29,000mil    424,333mil    90       -29,000mil  374,333mil  -29,000mil  374,333mil  
-P4         TopLayer 432,500mil    1257,563mil   0        382,500mil  1257,563mil 382,500mil  1257,563mil 
-P3         TopLayer -29,000mil    207,000mil    90       -29,000mil  157,000mil  -29,000mil  157,000mil  
-P2         TopLayer 215,000mil    1257,563mil   0        165,000mil  1257,563mil 165,000mil  1257,563mil 
-P1         TopLayer 226,000mil    -29,000mil    180      276,000mil  -29,000mil  276,000mil  -29,000mil  
-L2         TopLayer 1039,000mil   914,000mil    90       1039,000mil 914,000mil  1039,000mil 903,173mil  
-L1         TopLayer 1445,000mil   220,504mil    90       1445,000mil 220,504mil  1445,000mil 2,000mil    
-J1         TopLayer 1459,000mil   1257,563mil   0        1459,000mil 1257,563mil 1259,000mil 1257,563mil 
-C6         TopLayer 176,000mil    1024,000mil   90       176,000mil  1024,000mil 176,000mil  994,000mil  
-C5         TopLayer 949,142mil    944,441mil    90       949,142mil  944,441mil  949,142mil  914,441mil  
-C4         TopLayer 1000,142mil   944,441mil    90       1000,142mil 944,441mil  1000,142mil 914,441mil  
-C3         TopLayer 1021,000mil   95,000mil     270      1021,000mil 95,000mil   1021,000mil 125,000mil  
-C1         TopLayer 483,000mil    126,772mil    90       483,000mil  0,000mil    483,000mil  0,000mil    
+Designator Center-X(mm) Center-Y(mm) Layer    Rotation 
+D1         28.3718mm    2.3556mm     TopLayer 90       
+R15        5.9944mm     22.5254mm    TopLayer 270      
+R14        5.9944mm     16.7850mm    TopLayer 270      
+R8         5.9944mm     11.2478mm    TopLayer 270      
+R3         5.9944mm     6.0410mm     TopLayer 270      
+C2         39.5336mm    19.7104mm    TopLayer 0        
+U4         20.0640mm    20.6333mm    TopLayer 0        
+U3         20.0906mm    13.8261mm    TopLayer 0        
+U2         28.9800mm    23.9712mm    TopLayer 0        
+U1         21.4554mm    0.9398mm     TopLayer 180      
+SW1        0.5896mm     26.3024mm    TopLayer 180      
+RF2        17.7038mm    5.1054mm     TopLayer 270      
+RF1        19.7104mm    4.2418mm     TopLayer 180      
+R16        13.4112mm    19.7358mm    TopLayer 0        
+R13        13.4112mm    9.4319mm     TopLayer 0        
+R12        13.4112mm    11.9380mm    TopLayer 0        
+R11        13.4112mm    14.4441mm    TopLayer 0        
+R10        13.4112mm    16.9503mm    TopLayer 0        
+R9         25.6032mm    21.2683mm    TopLayer 0        
+R7         25.6032mm    10.6511mm    TopLayer 0        
+R6         25.6032mm    13.2165mm    TopLayer 0        
+R5         25.6032mm    15.7565mm    TopLayer 0        
+R4         25.6032mm    18.2711mm    TopLayer 0        
+R2         6.5024mm     25.2222mm    TopLayer 180      
+R1         16.3322mm    0.2540mm     TopLayer 180      
+Q4         4.0468mm     22.9210mm    TopLayer 90       
+Q3         4.0468mm     17.1956mm    TopLayer 90       
+Q2         4.0468mm     11.6688mm    TopLayer 90       
+Q1         4.0468mm     6.4516mm     TopLayer 90       
+P10        27.5590mm    31.9421mm    TopLayer 0        
+P9         -0.7366mm    21.8186mm    TopLayer 90       
+P8         22.0345mm    31.9421mm    TopLayer 0        
+P7         -0.7366mm    16.2983mm    TopLayer 90       
+P6         16.5100mm    31.9421mm    TopLayer 0        
+P5         -0.7366mm    10.7781mm    TopLayer 90       
+P4         10.9855mm    31.9421mm    TopLayer 0        
+P3         -0.7366mm    5.2578mm     TopLayer 90       
+P2         5.4610mm     31.9421mm    TopLayer 0        
+P1         5.7404mm     -0.7366mm    TopLayer 180      
+L2         23.4188mm    23.9522mm    TopLayer 90       
+L1         36.7030mm    5.6008mm     TopLayer 90       
+J1         37.0586mm    31.9421mm    TopLayer 0        
+C6         4.4704mm     26.0096mm    TopLayer 90       
+C5         24.3622mm    23.9888mm    TopLayer 90       
+C4         25.6576mm    23.9888mm    TopLayer 90       
+C3         25.9334mm    2.4130mm     TopLayer 270      
+C1         12.2682mm    3.2200mm     TopLayer 90       
